@@ -1,6 +1,7 @@
 # Social Media - Facebook like - FooBar
 
 Foobar is a social media application inspired by platforms like Facebook. It provides both a web client and an Android app for users to connect and share updates. 
+
 This program consist 4 parts: 
 1. [TCP server](https://github.com/MeitarTeper/SocialMedia-TCP-Server)
 2. API server
